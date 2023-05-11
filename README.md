@@ -1,3 +1,9 @@
+Members:
+Bryan Garcia pieismanly@csu.fullerton.edu
+Bryan Rivas 
+Brandon Mejia branmejia21@csu.fullerton.edu
+David Fazio davidfazio1102@csu.fullerton.edu
+
 # Project 2: Dynamic vs. Exhaustive - Crane unloading problem
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
